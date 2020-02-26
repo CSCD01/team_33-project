@@ -32,4 +32,10 @@
 
 2) Github: Where we keep all our code and things that we want to merge
 
-3) Discord: We want to have daily meetings, and it is difficult with our schedules to be doing them in person, so sometimes we will use discord
+3) Discord: We want to have daily meetings, and it is difficult with our schedules to be doing them in person, so sometimes we will use Discord
+
+
+## The PDF.js code base
+PDF.js is initially quite daunting of a codebase, with high level JavaScript spread across 75+ files, and quite little in-line documentation to help one trying to make sense of any of it. Many of these files are contain code for abstracting much more specific tasks like `jpg.js` which processes .jpg images more efficiently than other image file types. The code relevant to a developer trying to use PDF.js is in `pdf.js` which exports the actual funtionality of the API so a developer  can simply include this file in an HTML `<script>` tag and move forward with rendering PDFs. Other important files include `api.js` that facilitates high level interaction with PDFs to render them to the canvas. `document.pdf` interacts with lower level binary data and abstracts it in such a way for `api.js` to use. Rendering of the PDF file to HTML itself takes place inside `canvas.pdf`. The amount of abstraction and division of responsibilities amongst each file in the codebase is quite impressive, albeit a bit confusing to a developer learning the software.
+
+
