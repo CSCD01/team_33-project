@@ -26,7 +26,7 @@
    * Prioritising tasks is hard with multiple stakeholders: We don't really have any stakeholders other than the 4 members
    * Simplicity is hard to maintain: We are using kanban for this purpose, as with kanban it is very clean to begin with and you do not clutter things up.
 
-# Tools Used:
+## Tools Used:
 
 1) Trello Board: This will help us visualize the workflow of the project, and we have added extensions that help us limit the work in progress to really uphold the principles of Kanban
 
