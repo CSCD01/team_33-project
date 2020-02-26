@@ -26,4 +26,10 @@
    * Prioritising tasks is hard with multiple stakeholders: We don't really have any stakeholders other than the 4 members
    * Simplicity is hard to maintain: We are using kanban for this purpose, as with kanban it is very clean to begin with and you do not clutter things up.
 
-# How we implemented:
+# Tools Used:
+
+1) Trello Board: This will help us visualize the workflow of the project, and we have added extensions that help us limit the work in progress to really uphold the principles of Kanban
+
+2) Github: Where we keep all our code and things that we want to merge
+
+3) Discord: We want to have daily meetings, and it is difficult with our schedules to be doing them in person, so sometimes we will use discord
