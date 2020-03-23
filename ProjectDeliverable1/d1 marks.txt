@@ -1,0 +1,9 @@
+team_33 Deliverable 1 and Interview Marks
+
+Report: 15/40
+  -Overall Architecture: 2/15
+  -Software Process: 5/15
+  -Presentation and Quality of Writing: 8/10
+Comments: Almost no analysis of architecture. Most of the UML looks like it's taken straight from a reverse engineering tool with no cleanup, resulting in overly detailed diagrams that are neither clear nor helpful. UML for architecture is missing the Viewer layer. Other software processes and how the team will implement their chosen process were not discussed at all. Report itself did not contain the UML diagrams, which were in the same folder with non-descriptive file names, making it difficult to know what the UML was modelling.
+
+Interview: 10/10
