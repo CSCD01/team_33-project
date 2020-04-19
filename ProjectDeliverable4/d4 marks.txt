@@ -1,0 +1,13 @@
+team_33 Deliverable 4 and Interview Marks
+
+Report:                                 94/120
+  -Implementation:                      35/40
+  -Testing:                             20/20
+  -User Guide(s):                        0/10
+  -Design Document:                     10/10
+  -Process:                             19/20
+  -Presentation and Quality of Writing: 10/10
+  -Amount of work done compared with other teams: **To be graded by Anya** /10
+Comments: No code documentation. Should not leave large blocks of commented out code in the repo. No user guide present. Good use of branches, but it seems that d4 changes were not merged back onto master. 
+
+Interview: 10/10
